@@ -1,0 +1,9 @@
+network:
+  default-server: lobby
+  maintenance: false
+
+proxy:
+  max-players: 500
+
+features:
+  auto-send: true
