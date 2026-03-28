@@ -26,6 +26,19 @@ network-core/
 │   │   ├── config.yml
 │   │   ├── messages.yml
 │   │   ├── servers.yml
+
+## Plugin Structure
+com.network.core
+│── NetworkCore.java
+│── config/
+│   ├── ConfigManager.java
+│── listeners/
+│   ├── PlayerJoinListener.java
+│── service/
+│   ├── ServerRouter.java
+│── integration/
+│   ├── LuckPermsHook.java
+
 ## Configuration
 All configuration is handled inside the plugin:
 - config.yml: core settings
