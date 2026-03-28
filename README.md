@@ -8,8 +8,6 @@ It includes centralized configuration, proxy-side logic, and integration hooks f
 - Proxy: Velocity
 - Backend: Paper servers
 - Permissions: LuckPerms
-- Placeholders: PlaceholderAPI (backend)
-- Leaderboards: database-based system (custom or external)
 
 ## Features
 - Centralized configuration system
