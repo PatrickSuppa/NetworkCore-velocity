@@ -1,0 +1,8 @@
+servers:
+  lobby:
+    address: "YOUR_IP"
+  survival:
+    address: "YOUR_IP"
+  bedwars:
+    address: "YOUR_IP"
+    
